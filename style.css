@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: rgb(56, 55, 55);
+}
+h1 {
+    color: #91ece5;
+    text-align: center;
+    padding: 30px 0;
+}
+.container {
+    padding-top: 15px;
+}
+p {
+    color: #fdff9c;
+    font-size: 17px;
+    text-align: center;
+}
+.die1 {
+    height: 100px;
+    width: 100px;
+    margin: 0 10%;
+    background: #f3f3f3;
+    float: left;
+    background: #ddfff7c9;
+    border-radius: 10px;
+    border: 5px solid #ffffff
+}
+.die2 {
+    height: 100px;
+    width: 100px;
+    margin: 0 10%;
+    background: #f3f3f3;
+    float: right;
+    background: #ddfff7c9;
+    border-radius: 10px;
+    border: 5px solid #ffffff
+}
+.die3 {
+    height: 100px;
+    width: 100px;
+    margin: 155px auto;
+    margin-bottom: 20px;
+    background: #ddfff7c9;
+    border-radius: 10px;
+    border: 5px solid #ffffff
+}
+.button {
+    padding: 10px;
+    margin-left: 39%;
+    font-size: 17px;
+    outline: none;
+    /* border: none; */
+    border-radius: 7px;
+    color: #fdff9c;
+    background: #0b2f2d;
+}
+.one {
+    background: #ff0000;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    margin: 34px;
+}
+.two1 {
+    background: #0e0e0e;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    margin: 10px;
+}
+.two2 {
+    background: #0e0e0e;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    margin: 30px;
+    margin-left: 60px
+}
+.three1 {
+    background: #0e0e0e;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    margin: 5px;
+}
+.three2 {
+    background: #0e0e0e;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    margin: 11px;
+    margin-left: 34px;
+}
+.three3 {
+    background: #0e0e0e;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    margin: 11px;
+    margin-left: 64px;
+}
+.four1 {
+    background: #ff0000;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    margin: 10px;
+}
+.four2 {
+    background: #ff0000;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    margin-left: 62px;
+    margin-top: -29px   
+}
+.four3 {
+    background: #ff0000;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    margin: 10px;
+    margin-top: 30px;  
+}
+.four4 {
+    background: #ff0000;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    margin-top: -29px;
+    margin-left: 60px;
+}
+.five5 {
+    background: #0e0e0e;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    margin: 38px;
+    margin-top: -45px;
+}
+.six5 {
+    background: #0e0e0e;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    margin: 37px;
+    margin-top: -72px;
+}
+.six6 {
+    background: #0e0e0e;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    margin: 36px;
+    margin-top: -5px;
+}
